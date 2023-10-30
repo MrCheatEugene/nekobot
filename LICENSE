@@ -1,3 +1,16 @@
+words.txt contains copyrighted material from https://www.mustlovecats.net/Cat-Language.html, by Fenesi Péter.
+As the section 107 in the 1st chapter of Copyright Law of the US states, and the 1st factor of Fair Use states that:
+the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes is a legal factor for considering Fair Use any non-profit or educational purposes uses of copyrighted material, like in words.txt.
+
+For the Russian law, it's the 1274 atricle of Civil Code of the Russian Federation - Free use of a work for informational, scientific, educational or cultural purposes
+Where it states that it is permitted to use copyrighted work, permitted without the consent of the author or other copyright holder and without payment of remuneration, but with the obligatory indication of the name of the author whose work is used and the source of borrowing.
+
+Article 1306 also states that "The use of objects of related rights without the consent of the copyright holder and without payment of remuneration is permitted in cases of free use of works (Articles 1273, 1274, 1277, 1278 and 1279), as well as in other cases provided for by this chapter".
+
+So for now I can redistribute words.txt, without author's consent. Contact me if you want this taken down.
+Sources: http://pravo.gov.ru/proxy/ips/?docbody=&nd=102110716 ; https://www.copyright.gov/title17/92chap1.html#107
+
+License for all of the files, except index.py is Unlicense:
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
